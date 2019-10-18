@@ -1,5 +1,3 @@
 # Gradient-Descent
 
-Implementation of Gradient descent from scratch. 
-
-Different variants of Gradient descent such as Momentum based GD and Nesterov Accelerated GD.
+Implementation of Gradient descent and it's variants such as Momentum based GD and Nesterov Accelerated GD from scratch. 
